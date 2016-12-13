@@ -1,4 +1,4 @@
 {
-"fileUris":[],
+"fileUris":["https://raw.githubusercontent.com/dbenedic-rms/add-linux-account-azure/master/useradd.sh"],
 "commandToExecute":"sh useradd.sh"
 }
