@@ -1,0 +1,4 @@
+{
+"fileUris":[],
+"commandToExecute":"sh useradd.sh"
+}
